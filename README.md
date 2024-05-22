@@ -1,2 +1,2 @@
 # pixoo64
-Programming pixoo64 pixel display with python with adaptiv weather Icons, temperature, date, time
+Pixoo64 pixel display programmed with python with adaptiv weather Icons, temperature, date, time
